@@ -1,0 +1,2 @@
+# my-codes
+THIS IS MY FIRST REPOSITORY
